@@ -1,1 +1,1 @@
-This is the lab report of Multimedia Computing.
+This is the lab report of Multimedia Computing
